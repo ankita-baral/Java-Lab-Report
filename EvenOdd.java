@@ -1,6 +1,7 @@
 public class EvenOdd {
     public static void main(String[] args) {
-        int num = 7;
+        int num = 15;
+        
         if (num % 2 == 0) {
             System.out.println(num + " is even.");
         } else {
